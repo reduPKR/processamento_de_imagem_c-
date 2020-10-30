@@ -1,0 +1,39 @@
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+E:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+E:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+E:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+E:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+E:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.CoreCompileInputs.cache
+E:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+E:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+E:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+E:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+E:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+F:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+F:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+F:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+F:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+F:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+F:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+F:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+F:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.CoreCompileInputs.cache
+F:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+F:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+D:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+D:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+D:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+D:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+D:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+D:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+D:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.cache
+D:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.CoreCompileInputs.cache
+D:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+D:\TTC\Exercicios\ProcessamentoImagens - 3\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
